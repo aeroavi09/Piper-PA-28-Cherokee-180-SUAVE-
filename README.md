@@ -8,6 +8,9 @@ Implemented a Internal_Combustion_Propeller network with a 180 HP Lycoming O-360
 
 Measurements derived from Owner's Manual of Piper PA-28-180E, FAA Regulations
 
+Error Analysis:
+Once compared to Owner's Handbook, a error of less than 5% was found
+
 These forums helped troubleshoot errors:
 https://groups.google.com/g/suave-forum/c/9nizYj_MbFU
 https://groups.google.com/g/suave-forum/c/9nizYj_MbFU
