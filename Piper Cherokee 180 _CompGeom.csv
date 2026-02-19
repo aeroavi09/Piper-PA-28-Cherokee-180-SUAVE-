@@ -1,0 +1,19 @@
+Name, Theo_Area, Wet_Area, Theo_Vol, Wet_Vol
+main_wing,14.830915,14.830915,1.053481,1.053481
+main_wing,14.830915,14.830915,1.053481,1.053481
+vertical_stabilizer,2.286354,1.880108,0.055301,0.045817
+horizontal_stabilizer,4.829360,4.594264,0.121044,0.116017
+PropGeom,0.242263,0.242263,0.001539,0.001539
+PropGeom,0.242263,0.242263,0.001539,0.001539
+fuselage,17.987527,17.835129,3.804949,3.801056
+Totals,55.249598,54.455858,6.091334,6.072936
+
+Tag_Name, Tag_Theo_Area, Tag_Wet_Area
+main_wing_Surf0,14.830915,14.830915
+main_wing_Surf1,14.830915,14.830915
+vertical_stabilizer_Surf0,2.286354,1.880108
+horizontal_stabilizer_Surf0,2.414680,2.297132
+horizontal_stabilizer_Surf1,2.414680,2.297132
+PropGeom_Surf0,0.242263,0.242263
+PropGeom_Surf1,0.242263,0.242263
+fuselage_Surf0,17.987527,17.835129
