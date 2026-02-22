@@ -349,7 +349,6 @@ def vehicle_setup():
     prop.design_altitude                        = 9300 * Units.feet
     prop.variable_pitch                         = False
     
-    #this honestly made no sense
     prop.airfoil_geometry = ['./Airfoils/NACA_4412.txt']
     
     # 
@@ -550,4 +549,5 @@ def vsp_write_read(vehicle):
 # This section is needed to actually run the various functions in the file
 if __name__ == '__main__': 
     main()      
+
     plt.show()
